@@ -4,11 +4,11 @@
 This project focuses on performing Exploratory Data Analysis (EDA) on a dataset related to students' social media usage and addiction patterns. The goal is to uncover trends, relationships, and insights that can help understand how social media impacts students.
 
 ### Objectives
-Analyze students' social media usage behavior
-Identify patterns related to addiction
-Detect correlations between usage time and other factors
-Perform data cleaning and preprocessing
-Visualize key insights using graphs
+- Analyze students' social media usage behavior
+- Identify patterns related to addiction
+- Detect correlations between usage time and other factors
+- Perform data cleaning and preprocessing
+- Visualize key insights using graphs
 
 ### Tech Stack
 Python
