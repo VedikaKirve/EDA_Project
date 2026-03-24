@@ -49,19 +49,19 @@ Distribution plots
 Correlation heatmaps
 Trend visualizations
 
-### Key Insights (Example – you can customize)
-Students spending more time on social media show higher addiction indicators
-Certain usage patterns are strongly correlated with behavioral changes
-Some demographic groups show different usage trends
+### Key Insights
+- Students spending more time on social media show higher addiction indicators
+- Certain usage patterns are strongly correlated with behavioral changes
+- Some demographic groups show different usage trends
 
 ### Future Improvements
-Build a machine learning model to predict addiction levels
-Create an interactive dashboard using Streamlit
-Perform feature engineering for deeper insights
+- Build a machine learning model to predict addiction levels
+- Create an interactive dashboard using Streamlit
+- Perform feature engineering for deeper insights
 
 ## Author
 **Vedika Kirve**
-This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
+This project is part of my portfolio, showcasing the analytical skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 Email: vedikakirve6@gmail.com  
 LinkedIn: www.linkedin.com/in/vedikakirve06  
