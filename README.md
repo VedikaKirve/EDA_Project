@@ -12,18 +12,18 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a dataset 
 
 ### Tech Stack
 Python
-Pandas – Data manipulation
-NumPy – Numerical operations
-Matplotlib – Data visualization
-Seaborn – Advanced visualization
+- Pandas – Data manipulation
+- NumPy – Numerical operations
+- Matplotlib – Data visualization
+- Seaborn – Advanced visualization
 
 ### Dataset
 Dataset used: Students Social Media Addiction Dataset
 Contains information such as:
-Time spent on social media
-Usage patterns
-Behavioral indicators
-Demographic details
+- Time spent on social media
+- Usage patterns
+- Behavioral indicators
+- Demographic details
 
 ### Steps Performed
 1. Data Loading
