@@ -1,4 +1,4 @@
-## Student Social Media Addiction Analysis
+# Student Social Media Addiction Analysis
 ### Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a dataset related to students' social media usage and addiction patterns. The goal is to uncover trends, relationships, and insights that can help understand how social media impacts students.
